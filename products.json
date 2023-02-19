@@ -1,15 +1,31 @@
 [
   {
-    "id": 1,
     "name": "ali",
     "family": "zaare",
     "nomre": 20
   },
 
   {
-    "id": 2,
-    "name": "alireza",
+    "name": "sara",
     "family": "fathi",
     "nomre": 17
+  },
+
+  {
+    "name": "mohammad",
+    "family": "mohammadi",
+    "nomre": 14
+  },
+
+  {
+    "name": "mahsa",
+    "family": "sadeghi",
+    "nomre": 18
+  },
+
+  {
+    "name": "alireza",
+    "family": "soltani",
+    "nomre": 19.5
   }
 ]
